@@ -1,7 +1,7 @@
 first_number = 9
 second_number = 1
-sum =  + second_number
-difference = first_number
+sum = first_number + second_number
+difference = 
 
 
 
