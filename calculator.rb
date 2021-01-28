@@ -1,4 +1,4 @@
 first_number = 9
 second_number = 1
-sum = 
+sum = first_number + second_number
 # Add your variables here
